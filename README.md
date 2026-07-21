@@ -2,12 +2,6 @@
 
 # gringreen1111 
 
-## 💼 Experience
-
-**Korea Institute of Industrial Technology** — R&D
-<br/>
-**SKT FLY AI challenger** — AI bootcamp
-
 ## 🛠 Tech Stack
 
 **Languages**
@@ -28,6 +22,11 @@
 ![Tcl](https://img.shields.io/badge/Tcl-3E4A89?style=for-the-badge&logo=tcl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 💼 Experience
+
+**Korea Institute of Industrial Technology** — R&D
+<br/>
+**SKT FLY AI challenger** — AI bootcamp
 
 ## 📊 GitHub Stats
 
