@@ -26,9 +26,4 @@
 <br/>
 **SKT FLY AI challenger** — AI bootcamp
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=gringreen1111&theme=tokyonight&hide_border=true)
-
-
 </div>
