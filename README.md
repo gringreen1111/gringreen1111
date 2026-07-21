@@ -4,7 +4,9 @@
 
 ## 💼 Experience
 
-**한국생산기술연구원 (KITECH)** — R&D&nbsp;&nbsp;·&nbsp;&nbsp;**SKT FLY AI challenger** — AI bootcamp
+**한국생산기술연구원 (KITECH)** — R&D
+<br/>
+**SKT FLY AI challenger** — AI bootcamp
 
 ## 🛠 Tech Stack
 
