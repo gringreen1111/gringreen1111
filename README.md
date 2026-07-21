@@ -2,12 +2,9 @@
 
 # Hi, I'm gringreen1111 👋
 
-**Physical AI · Hardware-Software Co-design**를 지향합니다.
-반도체 공정 데이터 분석부터 로보틱스 sim2real, 디지털 회로 설계까지 소프트웨어와 하드웨어 경계를 넘나드는 문제를 다룹니다.
-
 ## 💼 Experience
 
-**한국생산기술연구원 (KITECH)** — R&D, Physical AI Team&nbsp;&nbsp;·&nbsp;&nbsp;**SKT FLY AI** — AI 부트캠프
+**한국생산기술연구원 (KITECH)** — R&D&nbsp;&nbsp;·&nbsp;&nbsp;**SKT FLY AI challenger** — AI bootcamp
 
 ## 🛠 Tech Stack
 
