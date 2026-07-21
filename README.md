@@ -4,7 +4,7 @@
 
 ## 💼 Experience
 
-**한국생산기술연구원 (KITECH)** — R&D
+**Korea Institute of Industrial Technology** — R&D
 <br/>
 **SKT FLY AI challenger** — AI bootcamp
 
