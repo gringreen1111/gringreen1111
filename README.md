@@ -22,9 +22,9 @@
 
 ## 💼 Experience
 
-**Korea Institute of Industrial Technology** — R&D(2026.02 ~ 2026.06)
+**Korea Institute of Industrial Technology** — R&D
 <br/>
-**SKT FLY AI challenger** — AI bootcamp(2026.07 ~ 2026.09)
+**SKT FLY AI challenger** — AI bootcamp
 
 ## 📊 GitHub Stats
 
