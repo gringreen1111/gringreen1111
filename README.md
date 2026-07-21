@@ -42,10 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![gringreen1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=gringreen1111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gringreen1111&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gringreen1111&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
