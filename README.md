@@ -1,7 +1,5 @@
 <div align="center">
 
-# gringreen1111 
-
 ## 🛠 Tech Stack
 
 **Languages**
