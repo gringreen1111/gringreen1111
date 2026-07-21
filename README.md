@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm gringreen1111 👋
+# gringreen1111 
 
 ## 💼 Experience
 
