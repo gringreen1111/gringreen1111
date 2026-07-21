@@ -5,12 +5,9 @@
 **Physical AI · Hardware-Software Co-design**를 지향합니다.
 반도체 공정 데이터 분석부터 로보틱스 sim2real, 디지털 회로 설계까지 소프트웨어와 하드웨어 경계를 넘나드는 문제를 다룹니다.
 
-</div>
-
 ## 💼 Experience
 
-- **한국생산기술연구원 (KITECH)** — R&D, Physical AI Team
-- **SKT FLY AI** — AI 부트캠프
+**한국생산기술연구원 (KITECH)** — R&D, Physical AI Team&nbsp;&nbsp;·&nbsp;&nbsp;**SKT FLY AI** — AI 부트캠프
 
 ## 🛠 Tech Stack
 
@@ -46,10 +43,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![gringreen1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=gringreen1111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![gringreen1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=gringreen1111&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gringreen1111&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gringreen1111&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gringreen1111&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
